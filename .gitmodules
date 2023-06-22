@@ -1,0 +1,12 @@
+[submodule "reformer-pytorch"]
+	path = reformer-pytorch
+	url = https://github.com/lucidrains/reformer-pytorch
+[submodule "product-key-memory"]
+	path = product-key-memory
+	url = https://github.com/lucidrains/product-key-memory
+[submodule "local-attention"]
+	path = local-attention
+	url = https://github.com/lucidrains/local-attention
+[submodule "axial-positional-embedding"]
+	path = axial-positional-embedding
+	url = https://github.com/lucidrains/axial-positional-embedding
